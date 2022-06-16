@@ -1,0 +1,13 @@
+.padding {
+  padding: 3rem;
+  background-color: red;
+  color: white;
+}
+.margin{
+    margin: 1rem;
+    background-color: green;
+    color: white;
+}
+div{
+    border: 1px;
+}
